@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/example-guestbook-php-redis:v3
+FROM k8s.gcr.io/kube-apiserver:v1.14.0
 
